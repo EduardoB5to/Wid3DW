@@ -25,7 +25,7 @@
    },
    {
       "name":"Wall 07",
-      "url":"https://raw.githubusercontent.com/EduardoB5to/Wid3DW/main/Wall07.png"
+      "url":"https://raw.githubusercontent.com/EduardoB5to/Wid3DW/main/wall07.jpg"
    },
    {
       "name":"Wall 08",
@@ -38,5 +38,13 @@
    {
       "name":"Wall 10",
       "url":"https://raw.githubusercontent.com/EduardoB5to/Wid3DW/main/Wall10.png"
+   },
+   {
+      "name":"Wall 11",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/Wid3DW/main/wall11.jpg"
+   },
+   {
+      "name":"Wall 12",
+      "url":"https://raw.githubusercontent.com/EduardoB5to/Wid3DW/main/wall12.jpg"
    }
 ]
